@@ -1,0 +1,28 @@
+body {
+    background-image: url("westeros.jpg");
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center; 
+} 
+
+.panel-body{
+    
+    margin-left:auto;
+    margin-right:auto;
+    padding: 15px;
+    background-color:lightgray; }
+    
+    p{ color: black; } 
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    color: black;
+}
